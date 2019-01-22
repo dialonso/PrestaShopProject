@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="https://www.prestashop.com/fr/blog/feed.xml" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:og="http://ogp.me/ns#" xmlns:article="http://ogp.me/ns/article#" xmlns:book="http://ogp.me/ns/book#" xmlns:profile="http://ogp.me/ns/profile#" xmlns:video="http://ogp.me/ns/video#" xmlns:product="http://ogp.me/ns/product#" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+  <channel>
+    <title>Blog Feed</title>
+    <link>https://www.prestashop.com/fr/blog/feed.xml</link>
+    <description></description>
+    <language>fr</language>
+     <atom:link href="https://www.prestashop.com/fr/blog/feed.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Comment installer PrestaShop ? - Le guide complet</title>
+    <link>https://www.prestashop.com/fr/blog/installer-prestashop</link>
+    <description>Ça y est, vous vous êtes décidé à vous lancer dans la grande aventure du e-commerce, mais vous ne savez pas par où commencer ?</description>
+     <pubDate>Thu, 13 Dec 2018 18:49:15 +0100</pubDate>
+ <dc:creator>Emie Pineau</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/installer-prestashop</guid>
+  </item>
+  <item>
+    <title>PrestaShop lance la PrestaShop Academy</title>
+    <link>https://www.prestashop.com/fr/blog/prestashop-academy-formations</link>
+    <description>PrestaShop vous présente la PrestaShop Academy.</description>
+     <pubDate>Mon, 10 Dec 2018 15:12:21 +0100</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/prestashop-academy-formations</guid>
+  </item>
+  <item>
+    <title>Clap de fin pour l’offre PrestaBox</title>
+    <link>https://www.prestashop.com/fr/press-release/fin-de-service-prestabox</link>
+    <description>Après la fin de sa commercialisation en 2015, PrestaShop annonce l’arrêt de PrestaBox, sa 1ère offre Cloud, au 07 mars 2019.</description>
+     <pubDate>Fri, 07 Dec 2018 15:52:45 +0100</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/press-release/fin-de-service-prestabox</guid>
+  </item>
+  <item>
+    <title>Comment capitaliser efficacement sur les promotions en ligne ? </title>
+    <link>https://www.prestashop.com/fr/blog/capitaliser-promotions-en-ligne</link>
+    <description>Soldes, Black Friday, Cyber Monday… Les promotions se multiplient sur la toile pour animer les ventes sur les sites e-commerce.</description>
+     <pubDate>Wed, 05 Dec 2018 17:09:33 +0100</pubDate>
+ <dc:creator>Ingenico ePayments_fr</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/capitaliser-promotions-en-ligne</guid>
+  </item>
+  <item>
+    <title>Rencontrez Aleksandr, notre Ambassadeur du mois | Novembre 2018</title>
+    <link>https://www.prestashop.com/fr/blog/ambassadeur-estonie-aleksandr</link>
+    <description>Ce mois-ci rencontrez Aleksandr, Ambassadeur PrestaShop à Talinn, en Estonie !</description>
+     <pubDate>Mon, 03 Dec 2018 11:04:08 +0100</pubDate>
+ <dc:creator>MLNielsen</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/ambassadeur-estonie-aleksandr</guid>
+  </item>
+  <item>
+    <title>Comment générer une palette de couleurs pour améliorer votre design web ?</title>
+    <link>https://www.prestashop.com/fr/blog/palette-de-couleurs-pour-votre-design-web</link>
+    <description>Comment générer une palette de couleurs pour améliorer votre design ?</description>
+     <pubDate>Wed, 28 Nov 2018 12:49:16 +0100</pubDate>
+ <dc:creator>Ismaël Ruiz Gonzalez FR</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/palette-de-couleurs-pour-votre-design-web</guid>
+  </item>
+  <item>
+    <title>5 Conseils pour Implémenter une Stratégie de Contenu dans votre Site E-Commerce</title>
+    <link>https://www.prestashop.com/fr/blog/strategie-contenu-site-ecommerce</link>
+    <description>Selon la FEVAD, la barre des 85% d’acheteurs en ligne a été franchie en 2018. Soit 37,5 millions de français ont commandé sur internet.</description>
+     <pubDate>Tue, 27 Nov 2018 11:30:35 +0100</pubDate>
+ <dc:creator>ITIS Commerce</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/strategie-contenu-site-ecommerce</guid>
+  </item>
+  <item>
+    <title>Comment créer la page produit parfaite pour votre boutique en ligne ? + Exemples</title>
+    <link>https://www.prestashop.com/fr/blog/page-produits-parfaite</link>
+    <description>Une page produit d&#039;une boutique en ligne conçue et créé de manière efficace et optimisée est essentielle pour le référencement.</description>
+     <pubDate>Mon, 26 Nov 2018 11:25:44 +0100</pubDate>
+ <dc:creator>Jose Luis Lopez_FR</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/page-produits-parfaite</guid>
+  </item>
+  <item>
+    <title>Interview de Jocelyn Fournier, expert PrestaShop, qui nous dit tout sur les performances boutique !</title>
+    <link>https://www.prestashop.com/fr/blog/interview-jocelyn-fournier-performances-boutique</link>
+    <description>Chez les utilisateurs de PrestaShop, une question revient bien souvent… comment optimiser ses performances ? Une question à laquelle il n’est pas toujours simple de répondre.</description>
+     <pubDate>Fri, 23 Nov 2018 11:01:27 +0100</pubDate>
+ <dc:creator>Jocelyn Fournier</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/interview-jocelyn-fournier-performances-boutique</guid>
+  </item>
+  <item>
+    <title>3 façons de collecter et d´afficher vos avis clients pour améliorer votre référencement naturel et SEO</title>
+    <link>https://www.prestashop.com/fr/blog/ameliorer-votre-referencement-naturel-et-SEO</link>
+    <description>Ces dernières années, les avis et évaluations sont devenus incontournables, et ce, quelle que soit l’activité eCommerce.</description>
+     <pubDate>Thu, 15 Nov 2018 16:50:52 +0100</pubDate>
+ <dc:creator>eKomi_FR</dc:creator>
+ <guid isPermaLink="false">https://www.prestashop.com/fr/blog/ameliorer-votre-referencement-naturel-et-SEO</guid>
+  </item>
+  </channel>
+</rss>
